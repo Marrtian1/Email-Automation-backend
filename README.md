@@ -1,1 +1,3 @@
-# Welcome to your Dyad app
+an email automation backend 
+status - in progress
+
